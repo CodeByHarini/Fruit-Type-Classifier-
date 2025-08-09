@@ -52,7 +52,7 @@ Model
 
  Sample Prediction
  
-[Sample Output](sample_output.png)
+[Sample Output](Sample_output.jpeg)
 
 License:
 
