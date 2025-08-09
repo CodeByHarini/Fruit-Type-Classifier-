@@ -1,5 +1,7 @@
 Fruit-Type-Classifier
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CodeByHarini/Fruit-Type-Classifier-/blob/main/fruit%20type.ipynb)
+
 A machine learning project that classifies fruit images into their respective categories using **TensorFlow/Keras**.
 This project was built and trained using the [Fruits 360 Dataset](https://www.kaggle.com/datasets/moltean/fruits).
 
